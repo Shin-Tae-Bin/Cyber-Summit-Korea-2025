@@ -11,7 +11,7 @@
 
 ## 🎯 주요 발표 내용 및 인사이트
 
-### 1. Cyber Defense in the Conteext of Hybrid Threats (David song-Pehambergeer)
+### 1. Cyber Defense in the Context of Hybrid Threats (David Song-Pehamberger)
 **발표자**: EU 하이브리드 위협대응센터 부국장
 
 #### 핵심 내용
