@@ -2,7 +2,7 @@
 국가정보원과 국가보안기술연구소에서 개최하는 서울(코엑스)「Cyber Summit Korea 2025」참여 후기
 
 <img src="images/20250909_093152.jpg" width="500">
-![Cyber Summit Korea 2025 참가 인증]
+[Cyber Summit Korea 2025 참가 인증]
 
 ## 📋 행사 개요
 
